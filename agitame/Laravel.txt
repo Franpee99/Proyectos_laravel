@@ -69,3 +69,6 @@ ANEXO:
 	Para el que no de fallo en el logeo, por no iniciar sesion, copiar y pegar el archivo navigation.blade.php y adaptarlo tu proyecto claro.
 
 
+
+composer run dev
+
